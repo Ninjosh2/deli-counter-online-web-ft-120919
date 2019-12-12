@@ -9,7 +9,7 @@ def line(line_array)
     line_array.each.with_index(1) do |name, i|
       current_line << " #{i}. #{name}"
     end
-    puts output_string
+    puts current_line
   end
  end
     
