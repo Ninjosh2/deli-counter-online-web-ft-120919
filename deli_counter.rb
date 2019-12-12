@@ -9,7 +9,7 @@ def line(line_array)
     puts output_string
   else
     output_string = "there are people in line"
-    puts 
+    puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
     
     
     
