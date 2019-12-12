@@ -25,7 +25,7 @@ describe 'Deli Counter' do
 	line(another_deli)
       end
     end
-  end
+  # end
 
   describe "#take_a_number" do
     context "there is nobody in line" do
