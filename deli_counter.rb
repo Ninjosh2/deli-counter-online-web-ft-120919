@@ -6,7 +6,7 @@ def line(line_array)
     line_array.each.with_index(1) do |name, index|
       output_string << " #{index}. #{name}"
     end
-    puts output_string
+    puts current_line
   else
     output_string = "there are people in line"
     puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
