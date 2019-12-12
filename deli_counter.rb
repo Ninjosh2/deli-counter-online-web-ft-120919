@@ -4,8 +4,8 @@ def line(line_array)
     puts "The line is currently empty."
   else
     output_string = "The line is currently:"
-    line_array.each.with_index(1) do |name, index|
-      output_string << " #{index}. #{name}"
+    line_array.each.with_index(1) do |name, i|
+      output_string << " #{i}. #{name}"
     end
     puts output_string
   end
