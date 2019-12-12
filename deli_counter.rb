@@ -7,7 +7,7 @@ def line(line_array)
       output_string << " #{index}. #{name}"
     end
     puts current_line
-  else
+  end
     output_string = "there are people in line"
     puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
     
