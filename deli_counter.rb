@@ -8,8 +8,7 @@ def line(line_array)
     end
     puts current_line
   end
-    output_string = "there are people in line"
-    puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
+   
     
     
     
