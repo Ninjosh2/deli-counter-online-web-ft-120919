@@ -9,6 +9,7 @@ def line(line_array)
     puts output_string
   else
     output_string = "there are people in line"
+    puts 
     
     
     
