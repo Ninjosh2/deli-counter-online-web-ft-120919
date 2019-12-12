@@ -7,6 +7,14 @@ def line(line_array)
       output_string << " #{index}. #{name}"
     end
     puts output_string
+  else
+    output_string = 
+    
+    
+    
+    
+    
+    
   end
       
     
