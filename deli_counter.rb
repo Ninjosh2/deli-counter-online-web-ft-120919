@@ -12,6 +12,7 @@ def line(line_array)
     puts output_string
   end
  end
+ end
     
     
     
