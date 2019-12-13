@@ -25,18 +25,3 @@ def now_serving(deli)
     deli.shift
   end
 end
-
-    
-    
-    
-    
-    
-    
-  end
-      
-    
-  
-  
-  
-  
-end
